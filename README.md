@@ -99,5 +99,5 @@ Streamlit Dashboard
 
 ## 📊 Pitch Deck
 
-- [NEXORA Pitch Deck — PDF](docs/NEXORA_Decision_Intelligence.pdf)
-- [NEXORA Pitch Deck — PPTX](docs/NEXORA_Decision_Intelligence.pptx)
+- [NEXORA Pitch Deck — PDF](https://github.com/Lohasync/NEXORA/blob/main/docs/NEXORA_Decision_Intelligence.pdf)
+- [NEXORA Pitch Deck — PPTX](https://github.com/Lohasync/NEXORA/blob/main/docs/NEXORA_Decision_Intelligence.pptx)
